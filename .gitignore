@@ -1,4 +1,4 @@
 data
 .DS_Store
-syn_image_stack.npy
-z_list.npy
+*.npy
+*.pyc
